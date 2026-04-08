@@ -1,0 +1,59 @@
+{% extends "main.html" %}
+<!-- Remove side nav bar on large screens on desktop -->
+{% block header %}
+  {{ super() }}
+
+  <!-- Additional styles for landing page -->
+  <style>
+
+    /* Hide table of contents */
+    @media screen and (min-width: 60em) {
+      .md-sidebar--secondary {
+        display: none;
+      }
+    }
+
+    /* Hide navigation */
+    @media screen and (min-width: 76.25em) {
+      .md-sidebar--primary {
+        display: none;
+      }
+    }
+
+    /* Prevent main content from overlapping hero */
+    .md-main {
+      padding-top: 0.5rem !important;
+    }
+
+    @media screen and (min-width: 768px) {
+      .md-main {
+        padding-top: 3rem !important;
+      }
+    }
+
+    @media screen and (min-width: 1024px) {
+      .md-main {
+        padding-top: 2rem !important;
+      }
+    }
+</style>
+{% endblock %}
+{% block hero %}
+<div class="pytx-hero pytx-container">
+    <img src="assets/images/site-still-cooking.png" class="pytx-hero__image" alt="PyTexas 2027 - Site Still Cooking"/>
+    <!--
+    TODO: When official logo is ready, replace the <img> above with:
+    <div class="pytx-hero__image hide-if-dark">
+      <img src="assets/images/logos/pytexas2027_day_color.svg" alt="PyTexas 2027 Logo - Day"/>
+    </div>
+    <div class="pytx-hero__image hide-if-light">
+      <img src="assets/images/logos/pytexas2027_night_color.svg" alt="PyTexas 2027 Logo - Night"/>
+    </div>
+    -->
+</div>
+{% endblock %}
+{% block content %}
+    <div style="text-align: center;">
+        {% include "partials/content.html" %}
+    </div>
+{% endblock %}
