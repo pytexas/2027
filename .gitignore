@@ -1,3 +1,11 @@
+# PyTexas specific
+.lycheeignore
+.lycheecache
+.lycheecache/
+commit-msg.md
+.idea/*
+site/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

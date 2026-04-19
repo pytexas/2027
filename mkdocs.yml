@@ -1,0 +1,109 @@
+site_name: PyTexas 2027 Conference
+site_author: PyTexas Foundation
+site_url: https://pytexas.org/2027/
+repo_url: https://github.com/pytexas/2027
+repo_name: pytexas/2027
+edit_uri: edit/main/docs/
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+  custom_dir: overrides
+  locale: en
+  logo: assets/images/pytexas-logo.png
+  favicon: assets/images/favicon.png
+  features:
+    - announce.dismiss
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - toc.integrate
+    - toc.follow
+  palette:
+    - scheme: pytx2027
+    # TODO: Re-add dark mode toggle when official logo/colors are ready
+    # - scheme: pytx2027_light
+    #   toggle:
+    #     icon: material/toggle-switch-off-outline
+    #     name: Switch to dark mode
+    # - scheme: pytx2027
+    #   toggle:
+    #     icon: material/toggle-switch
+    #     name: Switch to light mode
+copyright: "PyTexas Foundation © 2014 - 2027"
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+nav:
+  - Home: index.md
+  - About: about.md
+  - Attend:
+      - In Person Attendance: attend/in-person.md
+      - Opportunity Grants: attend/grants.md
+      #- Virtual Attendance: attend/virtual.md
+  - Sponsors:
+     # - Our Sponsors: sponsors/index.md
+      - Sponsor Us: sponsors/sponsor-us.md
+      - Ask Your Company: sponsors/asking-for-sponsorship.md
+  - Speaking: speaking.md
+ # - Schedule:
+ #     - Event Schedule: schedule/index.md
+ #     - Keynotes: schedule/keynotes.md
+ #     - Tutorials: schedule/tutorials.md
+ #     - Talks: schedule/talks.md
+  - FAQ: faq.md
+plugins:
+  - search
+  - social:
+      cards_layout_options:
+        background_color: "#ffffff"
+        color: "#3B2313"
+ # - redirects:
+ #     redirect_maps:
+ #       "slido.md": "https://app.sli.do/event/PLACEHOLDER"
+ #       "reg.md": "https://forms.gle/PLACEHOLDER"
+hooks:
+  - hooks/schedule.py
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/pytexas
+      name: Twitter
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@pytexas
+      name: Mastodon
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/pytexas.org
+      name: Bluesky
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/profile.php?id=61583603924409
+      name: Facebook
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/pytexas
+      name: Discord
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/pytexas-foundation
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/c/pytexas
+    - icon: fontawesome/brands/meetup
+      link: https://www.meetup.com/pytexas-virtual-meetup/
+    - icon: fontawesome/brands/github
+      link: https://github.com/pytexas
