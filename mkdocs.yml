@@ -75,10 +75,10 @@ plugins:
       cards_layout_options:
         background_color: "#ffffff"
         color: "#3B2313"
- # - redirects:
- #     redirect_maps:
- #       "slido.md": "https://app.sli.do/event/PLACEHOLDER"
- #       "reg.md": "https://forms.gle/PLACEHOLDER"
+  - redirects:
+      redirect_maps:
+        # TODO: point slido.md at the event-specific Slido URL once created
+        "slido.md": "https://slido.com/"
 hooks:
   - hooks/schedule.py
 extra:
