@@ -15,33 +15,51 @@ This event is 100% community organized and is funded through the generosity of o
 [Join the PyTexas Sponsors Mailing List](https://mailchi.mp/fc46f2d077fe/pytexas-sponsors){ .md-button .pytx-button--primary }
 
 <!-- 
-///If your enterprising self found this, it is not ready. This is last years. Shoo./// 
+///If your enterprising self found this, it is the 2027 draft and not yet public. Numbers and benefits may still change. Shoo./// 
 ## 2027 Prospectus
 
-| | Platinum | Gold | Silver | Bronze | Lanyard | Live Captioning | Food/Coffee | Networking Event |
-| -- | :--: |  :--: |  :--: |  :--: |  :--: |  :--: |  :--: | :--: |
-| Number remaining | 3 | 5 | 5 | 15 | 1 | 2 | 3 | 3 |
-| Cost (USD) | 12000 | 5000 | 3000 | 1000 | 3000 | 2000 | 3000 | 4000 |
-| Tickets included | 4 | 2 | 1 | 1 | 2 | 1 | 2 | 2 |
-| Discounted Tickets (50% Corp Rate) | 10 | 5 | 2 | - | 2 | 2 | 2 | 2 |
-| Pitch | 2 min | 2 min | 1 min | 1 min | 2 min | 1 min | 2 min | 2 min |
-| Table | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | | :fontawesome-solid-check: [^1] |
-| Sponsored talk<br/>Slot before lunch, 20 minutes | :fontawesome-solid-check: [^2] ||||||||
-| Logo on lanyard | |||| :fontawesome-solid-check: ||
-| Logo on PyTexas videos and live stream | ||||| :fontawesome-solid-check: ||
-| Custom signage/message at breakfast, lunch,<br/>and snacks one day<br/>OR<br/>Logo at coffee area both days [^3] | |||||| :fontawesome-solid-check: ||
-| Popup banner option | ||| :fontawesome-solid-check: |||
-| Logo on website | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
-| Logo on opening and<br/>closing slides | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
-| Social media callout | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
-| Shared swag table<br/>for stickers and other swag<br/>UNSTAFFED | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
-| Posting on the Job Board section<br/>of the conference website | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+Sponsor PyTexas 2027 with a package, a named sponsorship, or one of our add-ons.
+
+| | Platinum | Gold | Community | Lanyard | Live Captioning | Food | Coffee Bar |
+| -- | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Number available | 2 | 5 | 30 | 1 | 2 | 6 | 1 |
+| Cost (USD) | 12,000 | 5,000 | 500 | 3,000 | 3,000 | 3,000 | 3,000 |
+| Tickets included | 4 | 2 | 1 | 2 | 1 | 2 | 2 |
+| Discounted tickets (50% corp rate) | 10 | 5 | - | 2 | 2 | 2 | 2 |
+| Main-stage pitch | 2 min | 2 min | - | 2 min | 1 min | 2 min | 2 min |
+| Exhibitor table | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Sponsored talk (20 min) or workshop (60 min)<br/>Saturday or Sunday | :fontawesome-solid-check: [^1] | | | | | | |
+| Rotating logo slide during breaks | | | :fontawesome-solid-check: | | | | |
+| Logo on lanyard | | | | :fontawesome-solid-check: | | | |
+| Logo on PyTexas videos and live stream | | | | | :fontawesome-solid-check: | | |
+| Custom signage at breakfast, lunch,<br/>and snacks one day | | | | | | :fontawesome-solid-check: | |
+| Logo at the coffee area both days | | | | | | | :fontawesome-solid-check: |
+| Logo on website | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Logo on opening and<br/>closing slides | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Social media callout | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Shared swag table<br/>for stickers and other swag<br/>UNSTAFFED | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Posting on the Job Board section<br/>of the conference website | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+
+**Customizations are reserved for Platinum sponsors at full price.**
+Every other package and named sponsorship is fixed as listed above.
+If you want more than your sponsorship includes, add one of the add-ons below.
+
+### Add-ons
+
+Add-ons require a sponsorship package or named sponsorship.
+They can be stacked on any of the above, but cannot be purchased on their own, and do not include tickets.
+
+| Add-on | Cost (USD) | Number available |
+| -- | :--: | :--: |
+| Conference shirt logo [^2] | 1,000 | 10 |
+| Opportunity Grant sponsor [^3] | 500 | 20 |
+| Bag stuffing | 500 | 20 |
 
 ///Footnotes Go Here///
 
-[^1]: At network event
-[^2]: Date selection is first come, first serve. Talk is subject to approval. All talks go through the talk review process to ensure that PyTexas remains a high quality conference. Sponsored talks should be the same kind of talks that you would submit through our normal call for proposals. Sales pitches, advertisements, and talks that are not relevant to the Python community will be rejected. **Note that we reserve the right to reject a talk if we think it could jeopardize our 501(c)3 status.**
-[^3]: We have 2 total food sponsorships and 1 total coffee bar sponsorship.
+[^1]: Date selection is first come, first serve. The talk or workshop is subject to approval. All talks go through the talk review process to ensure that PyTexas remains a high quality conference. Sponsored talks should be the same kind of talks that you would submit through our normal call for proposals. Sales pitches, advertisements, and talks that are not relevant to the Python community will be rejected. **Note that we reserve the right to reject a talk if we think it could jeopardize our 501(c)3 status.**
+[^2]: This year every attendee receives a conference shirt, so your logo goes home with the whole conference.
+[^3]: Opportunity Grant sponsorships fund free tickets, and sometimes travel, for attendees who could not otherwise afford to attend. They carry no stage time.
 
 ### Lead Gathering
 
