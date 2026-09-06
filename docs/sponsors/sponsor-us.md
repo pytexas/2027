@@ -27,9 +27,9 @@ Sponsor PyTexas 2027 with a package, a named sponsorship, or one of our add-ons.
 | Tickets included | 4 | 2 | 1 | 2 | 1 | 2 | 2 |
 | Discounted tickets (50% corp rate) | 10 | 5 | - | 2 | 2 | 2 | 2 |
 | Main-stage pitch | 2 min | 2 min | - | 2 min | 1 min | 2 min | 2 min |
-| Exhibitor table | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Exhibitor table | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | | |
 | Sponsored talk (20 min) or workshop (60 min)<br/>Saturday or Sunday | :fontawesome-solid-check: [^1] | | | | | | |
-| Rotating logo slide during breaks | | | :fontawesome-solid-check: | | | | |
+| Rotating logo slide during breaks | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | |
 | Logo on lanyard | | | | :fontawesome-solid-check: | | | |
 | Logo on PyTexas videos and live stream | | | | | :fontawesome-solid-check: | | |
 | Custom signage at breakfast, lunch,<br/>and snacks one day | | | | | | :fontawesome-solid-check: | |
