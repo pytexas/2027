@@ -139,11 +139,11 @@ Check your internal directory for the following titles:
     **Why this fits our marketing strategy:**
 
     - **Qualified audience:** 53% software engineers, 11% data scientists/ML engineers, 9% DevOps/SRE
-    - **Thought leadership platform:** Gold+ sponsors get 2-minute main stage pitches 
+    - **Thought leadership platform:** Platinum sponsors get a sponsored talk or workshop on the main schedule
     - **Texas presence:** 83% of attendees are Texas-based, with heavy concentration in Austin (53%), DFW (16%), Houston (13%)
     - **Lead capture:** Sponsors have successfully gathered leads through raffles and QR codes to communities/newsletters
 
-    **Sponsorship tiers range from $1K (Bronze) to $12K (Platinum)**, with scaled benefits including tickets, tables, and stage time.
+    **Sponsorship packages range from $500 (Community) to $12K (Platinum)**, with scaled benefits including tables, logo placement, and a stage slot at the top tier.
 
     You can find their [Sponsorship Prospectus here](https://www.pytexas.org/2027/sponsors/sponsor-us/). If you have any questions, you can reach them at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org). I'm happy to discuss this opportunity further if helpful.
 
@@ -182,7 +182,7 @@ You likely already know them! Your manager's manager, the VP/Director of Enginee
     - **Team development:** Sponsorship includes tickets + discounted corporate tickets for our engineers to attend
     - **Employer brand:** Positions us as invested in the Python/engineering community
     - **Speaking opportunity:** Top-tier Platinum sponsors receive a guaranteed speaking slot (subject to approval)
-    - **Low risk, high visibility:** Bronze tier is $1K for logo placement, table, and pitch slot
+    - **Low risk, high visibility:** Community tier is $500 for logo placement across the website, opening/closing slides, and social
 
     I've seen companies in cloud infrastructure, developer tools, consulting, and AI/ML sponsor similar events to strengthen their technical community presence.
 
@@ -233,9 +233,9 @@ Check your internal directory for the following titles:
 
     **Sponsorship as a sales activation:**
 
-    - Opportunity of staffed tables for direct engagement
-    - Stage time at Gold+ tiers for product visibility (must be educational, not sales pitches)
-    - Multiple tickets to bring sales engineers or account executives
+    - Staffed exhibitor tables (Gold and Platinum) for direct engagement
+    - A sponsored talk or workshop at the Platinum tier for product visibility (must be educational, not a sales pitch)
+    - Add-ons available to boost visibility without a full package
 
     You can find their [Sponsorship Prospectus here](https://www.pytexas.org/2027/sponsors/sponsor-us/). If you have any questions, you can reach them at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org). I'm happy to discuss this opportunity further if helpful.
 
