@@ -59,7 +59,7 @@ They can be stacked on any of the sponsor packages and can be added with other a
 
 [^1]: Date selection is first come, first serve. The talk or workshop is subject to approval. All talks go through the talk review process to ensure that PyTexas remains a high quality conference. Sponsored talks should be the same kind of talks that you would submit through our normal call for proposals. Sales pitches, advertisements, and talks that are not relevant to the Python community will be rejected. **Note that we reserve the right to reject a talk if we think it could jeopardize our 501(c)3 status.**
 [^2]: This year every attendee receives a conference shirt, so your logo goes home with the whole conference.
-[^3]: Opportunity Grant sponsorships fund free tickets, and sometimes travel, for attendees who could not otherwise afford to attend. They carry no stage time.
+[^3]: Opportunity Grant sponsorships fund free tickets, and sometimes travel, for attendees who could not otherwise afford to attend. They carry no stage time. PyTexas organizers decide on opportunity grant recipients.
 
 ### Lead Gathering
 
