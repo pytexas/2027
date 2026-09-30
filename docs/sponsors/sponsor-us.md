@@ -46,7 +46,7 @@ If you want more than your sponsorship includes, add one of [these add-ons](#add
 
 ### Add-ons
 
-Add-ons require a sponsorship package or named sponsorship.
+Add-ons require purchase of a sponsorship package or named sponsorship.
 They can be stacked on any of the sponsor packages and can be added with other add-ons in any combination to those packages; but they cannot be purchased on their own and do not include extra tickets, extra stage time, or extra benefits other than those listed explicitly here.
 
 | Add-on | Cost (USD) | Number available |
