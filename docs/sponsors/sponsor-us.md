@@ -42,7 +42,7 @@ Sponsor PyTexas 2027 with a package, a named sponsorship, or one of our add-ons.
 
 **Customizations are reserved for Platinum sponsors at full price.**
 Every other package and named sponsorship is fixed as listed above.
-If you want more than your sponsorship includes, add one of the add-ons below.
+If you want more than your sponsorship includes, add one of [these add-ons](#add-ons).
 
 ### Add-ons
 
