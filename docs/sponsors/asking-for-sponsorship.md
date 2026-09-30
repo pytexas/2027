@@ -143,7 +143,7 @@ Check your internal directory for the following titles:
     - **Texas presence:** 83% of attendees are Texas-based, with heavy concentration in Austin (53%), DFW (16%), Houston (13%)
     - **Lead capture:** Sponsors have successfully gathered leads through raffles and QR codes to communities/newsletters
 
-    **Sponsorship packages range from $500 (Community) to $12K (Platinum)**, with scaled benefits including tables, logo placement, and a stage slot at the top tier.
+    **Sponsorship packages range from $500 (Community) to $12K (Platinum)**, with scaled benefits including tables, brief pitch time spots, logo placement, and a stage slot at the top tier.
 
     You can find their [Sponsorship Prospectus here](https://www.pytexas.org/2027/sponsors/sponsor-us/). If you have any questions, you can reach them at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org). I'm happy to discuss this opportunity further if helpful.
 
