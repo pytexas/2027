@@ -22,6 +22,8 @@ just clean            # Remove site/, .lycheecache/, __pycache__/
 just deploy           # Deploy to GitHub Pages (production only)
 ```
 
+**Before opening a PR:** run `just link-check` and get it passing locally. CI runs the same check, but some sites return 403 to GitHub's runners; add those URLs to `.lycheeignore`. The recipe skips `site/404.html` because its root-relative `/2027/` links cannot resolve from local files.
+
 **System prerequisite:** Cairo library (`brew install cairo` on macOS).
 
 ## Architecture

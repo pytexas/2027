@@ -22,8 +22,9 @@ serve-port PORT="8001":
     uv run mkdocs serve --dev-addr=127.0.0.1:{{PORT}}
 
 # Check all links using lychee against the built site (builds first)
+# 404.html is excluded: its root-relative /2027/ links cannot resolve from local files
 link-check: build
-    lychee --cache --verbose 'site/**/*.html'
+    lychee --cache --verbose --exclude-path 'site/404\.html' 'site/**/*.html'
 
 # Clean generated files and cache
 clean:
