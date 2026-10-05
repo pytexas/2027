@@ -19,6 +19,8 @@ This event is 100% community organized and is funded through the generosity of o
 ## 2027 Prospectus
 
 Sponsor PyTexas 2027 with a package, a named sponsorship, or one of our add-ons.
+Platinum, Gold, and Community are our sponsorship packages.
+Lanyard, Live Captioning, Food, and Coffee Bar are named sponsorships, where your company sponsors one specific part of the conference.
 
 | | Platinum | Gold | Community | Lanyard | Live Captioning | Food | Coffee Bar |
 | -- | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -47,19 +49,21 @@ If you want more than your sponsorship includes, add one of [these add-ons](#add
 ### Add-ons
 
 Add-ons require purchase of a sponsorship package or named sponsorship.
-They can be stacked on any of the sponsor packages and can be added with other add-ons in any combination to those packages; but they cannot be purchased on their own and do not include extra tickets, extra stage time, or extra benefits other than those listed explicitly here.
+They can be stacked on any sponsorship package or named sponsorship and can be added with other add-ons in any combination.
+They cannot be purchased on their own and do not include extra tickets, extra stage time, or extra benefits other than those listed explicitly here.
 
 | Add-on | Cost (USD) | Number available |
 | -- | :--: | :--: |
 | Conference shirt logo [^2] | 1,000 | 10 |
 | Opportunity Grant sponsor [^3] | 500 | 20 |
-| Attendee swag bag contents | 500 | 20 |
+| Attendee swag bag contents [^4] | 500 | 20 |
 
 ///Footnotes Go Here///
 
 [^1]: Date selection is first come, first serve. The talk or workshop is subject to approval. All talks go through the talk review process to ensure that PyTexas remains a high quality conference. Sponsored talks should be the same kind of talks that you would submit through our normal call for proposals. Sales pitches, advertisements, and talks that are not relevant to the Python community will be rejected. **Note that we reserve the right to reject a talk if we think it could jeopardize our 501(c)3 status.**
 [^2]: This year every attendee receives a conference shirt, so your logo goes home with the whole conference.
 [^3]: Opportunity Grant sponsorships fund free tickets, and sometimes travel, for attendees who could not otherwise afford to attend. They carry no stage time. PyTexas organizers decide on opportunity grant recipients.
+[^4]: Up to 2 pieces of swag per sponsor go in every attendee bag. A sticker pack counts as one piece. Expect to fill 300 bags.
 
 ### Lead Gathering
 
