@@ -18,9 +18,7 @@ This event is 100% community organized and is funded through the generosity of o
 ///If your enterprising self found this, it is the 2027 draft and not yet public. Numbers and benefits may still change. Shoo./// 
 ## 2027 Prospectus
 
-Sponsor PyTexas 2027 with a package, a named sponsorship, or one of our add-ons.
-Platinum, Gold, and Community are our sponsorship packages.
-Lanyard, Live Captioning, Food, and Coffee Bar are named sponsorships, where your company sponsors one specific part of the conference.
+Sponsor PyTexas 2027 with one of the sponsorship packages below.
 
 | | Platinum | Gold | Community | Lanyard | Live Captioning | Food | Coffee Bar |
 | -- | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -43,13 +41,13 @@ Lanyard, Live Captioning, Food, and Coffee Bar are named sponsorships, where you
 | Posting on the Job Board section<br/>of the conference website | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
 
 **Customizations are reserved for Platinum sponsors at full price.**
-Every other package and named sponsorship is fixed as listed above.
+Every other package is fixed as listed above.
 If you want more than your sponsorship includes, add one of [these add-ons](#add-ons).
 
 ### Add-ons
 
-Add-ons require purchase of a sponsorship package or named sponsorship.
-They can be stacked on any sponsorship package or named sponsorship and can be added with other add-ons in any combination.
+Add-ons require purchase of a sponsorship package.
+They can be stacked on any sponsorship package and can be added with other add-ons in any combination.
 They cannot be purchased on their own and do not include extra tickets, extra stage time, or extra benefits other than those listed explicitly here.
 
 | Add-on | Cost (USD) | Number available |

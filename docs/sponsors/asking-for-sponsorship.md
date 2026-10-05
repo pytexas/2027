@@ -235,7 +235,7 @@ Check your internal directory for the following titles:
 
     - Staffed exhibitor tables (Gold and Platinum) for direct engagement
     - A sponsored talk or workshop at the Platinum tier for product visibility (must be educational, not a sales pitch)
-    - Add-ons available to boost visibility without a full package
+    - Add-ons available to boost visibility on top of any package
 
     You can find their [Sponsorship Prospectus here](https://www.pytexas.org/2027/sponsors/sponsor-us/). If you have any questions, you can reach them at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org). I'm happy to discuss this opportunity further if helpful.
 

@@ -78,4 +78,5 @@ When updating colors: change both `pytx2027_light` and `pytx2027` (dark) scheme 
 - Sponsor logos go in `docs/assets/images/sponsors/`, speaker photos in `docs/assets/images/speakers/`.
 - The schedule is data-driven: edit `data/schedule.yaml`, not `docs/schedule/index.md` (it gets overwritten on build).
 - Prospectus demographic data in `docs/sponsors/sponsor-us.md` uses Mermaid pie charts — update with post-conference survey data.
+- `.ai-sessions/` is gitignored. Session summaries and `lessons.md` stay local and are never staged. The global pre-commit hook still expects a staged session file, so commits here need `--no-verify`.
 - The `asking-for-sponsorship.md` page has email templates with year-specific dates that need updating.
