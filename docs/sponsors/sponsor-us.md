@@ -53,7 +53,7 @@ They can be stacked on any of the sponsor packages and can be added with other a
 | -- | :--: | :--: |
 | Conference shirt logo [^2] | 1,000 | 10 |
 | Opportunity Grant sponsor [^3] | 500 | 20 |
-| Bag stuffing | 500 | 20 |
+| Attendee swag bag contents | 500 | 20 |
 
 ///Footnotes Go Here///
 
