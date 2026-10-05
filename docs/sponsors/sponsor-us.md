@@ -26,7 +26,7 @@ Sponsor PyTexas 2027 with a package, a named sponsorship, or one of our add-ons.
 | Cost (USD) | 12,000 | 5,000 | 500 | 3,000 | 3,000 | 3,000 | 3,000 |
 | Tickets included | 4 | 2 | 1 | 2 | 1 | 2 | 2 |
 | Discounted tickets (50% corp rate) | 10 | 5 | - | 2 | 2 | 2 | 2 |
-| Main-stage pitch | 2 min | 2 min | - | 2 min | 1 min | 2 min | 2 min |
+| Main-stage pitch | 2 min | 2 min | - | 1 min | 1 min | 1 min | 1 min |
 | Exhibitor table | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | | |
 | Sponsored talk (20 min) or workshop (60 min)<br/>Saturday or Sunday | :fontawesome-solid-check: [^1] | | | | | | |
 | Rotating logo slide during breaks | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | |
