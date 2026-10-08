@@ -15,7 +15,7 @@ All speakers give their presentations live and in person; we are not supporting 
 
 ## Call for proposals
 
-* The Call For Proposals (CFP) opened **October 1, 2026** and runs through **December 11, 2026 at 5:00pm CST**
+* The Call For Proposals (CFP) opened **October 1, 2026** and runs through **December 11, 2026 at 11:59pm CST**
 * Looking for guidance on how to write a CFP? Check out [this blog](https://mason.dev/blog/how-i-write-conference-talk-proposals)!
 * When you're ready, submit your proposal [here](https://pretalx.com/pytexas-2027/)
 

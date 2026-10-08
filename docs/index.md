@@ -33,7 +33,7 @@ Join us for the largest gathering of Python developers within the great state of
 
     ---
 
-    Our Call for Proposals (CFP) is open for talks, 3-hour tutorials, and the Python Community Leadership Summit! **Submissions close December 11, 2026 at 5:00pm CST.**
+    Our Call for Proposals (CFP) is open for talks, 3-hour tutorials, and the Python Community Leadership Summit! **Submissions close December 11, 2026 at 11:59pm CST.**
 
     [:octicons-arrow-right-24: Submit to the CFP](https://pretalx.com/pytexas-2027/)
 
