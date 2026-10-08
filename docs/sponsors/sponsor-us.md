@@ -8,14 +8,10 @@ The PyTexas Conference is a gathering of Pythonistas put on by the PyTexas Found
 We're excited to announce that we will be returning on April 16&ndash;18, 2027 to the Austin Central Public Library in Austin, TX. 
 This event is 100% community organized and is funded through the generosity of our sponsors.
 
-## Prospectus Coming Soon!
-
 *Get notified about the latest opportunities to sponsor PyTexas.*
 
 [Join the PyTexas Sponsors Mailing List](https://mailchi.mp/fc46f2d077fe/pytexas-sponsors){ .md-button .pytx-button--primary }
 
-<!-- 
-///If your enterprising self found this, it is the 2027 draft and not yet public. Numbers and benefits may still change. Shoo./// 
 ## 2027 Prospectus
 
 Sponsor PyTexas 2027 with one of the sponsorship packages below.
@@ -149,4 +145,3 @@ Also, in an attempt to make PyTexas as accessible as possible to everyone, we su
 Thank you for considering to sponsor PyTexas.
 
 If you're interested in sponsoring PyTexas, please reach out to [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org).
--->
