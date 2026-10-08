@@ -47,6 +47,7 @@ In smaller companies, this might be a Developer Advocate or Marketing team membe
 
     - 53% of attendees are software engineers/SDETs the exact audience we hope to engage with
     - They offer many perks, including a table, logo placement, and product pitches in front of the entire audience. I believe this would be a huge ROI for community visibility
+    - $3K packages (Lanyard, Live Captioning, Food, Coffee Bar) put our logo on one part of the conference
     - Even spread across experience levels (27% have 15+ years, 20% are early career)
 
     Past sponsors have included Microsoft, Bloomberg, Cloudflare, Anaconda, and other large tech names.
@@ -95,7 +96,8 @@ Check your internal directory for the following titles:
     **Sponsorship = recruiting activation:**
 
     - Opportunity to staff a table to engage candidates directly, many of whom have indicated they are looking for their next role
-    - Gold+ tiers include multiple tickets + discounted corporate tickets for our team to attend
+    - Gold and Platinum packages include multiple tickets + discounted corporate tickets for our team to attend
+    - $3K packages (Lanyard, Live Captioning, Food, Coffee Bar) put our logo on one part of the conference
 
     You can find their [Sponsorship Prospectus here](https://www.pytexas.org/2027/sponsors/sponsor-us/). If you have any questions, you can reach them at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org). I'm happy to discuss this opportunity further if helpful.
 
@@ -139,11 +141,11 @@ Check your internal directory for the following titles:
     **Why this fits our marketing strategy:**
 
     - **Qualified audience:** 53% software engineers, 11% data scientists/ML engineers, 9% DevOps/SRE
-    - **Thought leadership platform:** Gold+ sponsors get 2-minute main stage pitches 
+    - **Thought leadership platform:** Platinum sponsors get a sponsored talk or workshop on the main schedule
     - **Texas presence:** 83% of attendees are Texas-based, with heavy concentration in Austin (53%), DFW (16%), Houston (13%)
     - **Lead capture:** Sponsors have successfully gathered leads through raffles and QR codes to communities/newsletters
 
-    **Sponsorship tiers range from $1K (Bronze) to $12K (Platinum)**, with scaled benefits including tickets, tables, and stage time.
+    **Sponsorship packages range from $500 (Community) to $12K (Platinum)**, with scaled benefits including tables, brief pitch time spots, logo placement, and a stage slot for Platinum sponsors. Four $3K packages (Lanyard, Live Captioning, Food, Coffee Bar) put our logo on one part of the conference.
 
     You can find their [Sponsorship Prospectus here](https://www.pytexas.org/2027/sponsors/sponsor-us/). If you have any questions, you can reach them at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org). I'm happy to discuss this opportunity further if helpful.
 
@@ -179,10 +181,11 @@ You likely already know them! Your manager's manager, the VP/Director of Enginee
 
     **Why this matters for us:**
 
-    - **Team development:** Sponsorship includes tickets + discounted corporate tickets for our engineers to attend
+    - **Team development:** Most packages include tickets + discounted corporate tickets for our engineers to attend
     - **Employer brand:** Positions us as invested in the Python/engineering community
-    - **Speaking opportunity:** Top-tier Platinum sponsors receive a guaranteed speaking slot (subject to approval)
-    - **Low risk, high visibility:** Bronze tier is $1K for logo placement, table, and pitch slot
+    - **Speaking opportunity:** Platinum sponsors receive a guaranteed speaking slot (subject to approval)
+    - **Low risk, high visibility:** The Community package is $500 for logo placement across the website, opening/closing slides, and social
+    - **Mid-range option:** $3K packages (Lanyard, Live Captioning, Food, Coffee Bar) put our logo on one part of the conference
 
     I've seen companies in cloud infrastructure, developer tools, consulting, and AI/ML sponsor similar events to strengthen their technical community presence.
 
@@ -233,9 +236,10 @@ Check your internal directory for the following titles:
 
     **Sponsorship as a sales activation:**
 
-    - Opportunity of staffed tables for direct engagement
-    - Stage time at Gold+ tiers for product visibility (must be educational, not sales pitches)
-    - Multiple tickets to bring sales engineers or account executives
+    - Staffed exhibitor tables (Gold and Platinum) for direct engagement
+    - A sponsored talk or workshop for Platinum sponsors for product visibility (must be educational, not a sales pitch)
+    - $3K packages (Lanyard, Live Captioning, Food, Coffee Bar) put our logo on one part of the conference
+    - Add-ons available to boost visibility on top of any package
 
     You can find their [Sponsorship Prospectus here](https://www.pytexas.org/2027/sponsors/sponsor-us/). If you have any questions, you can reach them at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org). I'm happy to discuss this opportunity further if helpful.
 
@@ -250,7 +254,7 @@ When advocating for sponsorship internally, you may encounter pushback. Here's h
 
 ### "We don't have budget for this."
 
-**Response:** "I understand budget is tight. Bronze tier is $1K less than the cost of a single job posting or a mid-level LinkedIn Recruiter license for a month. One quality hire or qualified lead could cover the cost 10x over."
+**Response:** "I understand budget is tight. The Community package is $500, less than the cost of a single job posting or a mid-level LinkedIn Recruiter license for a month. One quality hire or qualified lead could cover the cost 10x over."
 
 ### "How do we know this is worth it?"
 
@@ -266,7 +270,7 @@ When advocating for sponsorship internally, you may encounter pushback. Here's h
 
 ### "Can we do this next year?"
 
-**Response:** "Absolutely, but the prospectus just went out and popular tiers will sell out. If we wait, we might miss the opportunity altogether."
+**Response:** "Absolutely, but the prospectus just went out and popular packages will sell out. If we wait, we might miss the opportunity altogether."
 
 ### "Who approved sponsorships last year?"
 
@@ -276,4 +280,4 @@ When advocating for sponsorship internally, you may encounter pushback. Here's h
 
 ## Need More Information?
 
-Visit our [sponsorship prospectus page](sponsor-us.md) for complete details on sponsorship tiers, attendee demographics, and benefits. If you have questions or need help making the case internally, reach out to us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org).
+Visit our [sponsorship prospectus page](sponsor-us.md) for complete details on sponsorship packages, attendee demographics, and benefits. If you have questions or need help making the case internally, reach out to us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org).

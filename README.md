@@ -2,6 +2,12 @@
 
 ## Development
 
+### Before Opening a PR
+
+Run `just link-check` and fix any broken links before you open a pull request.
+The same check runs in GitHub Actions, where some sites block the checker, so a clean local run is the faster test.
+If a working link fails only in CI, add it to `.lycheeignore`.
+
 ### PC Gotcha
 
 If you are on a Windows machine, you will likely run into an error when running `mkdocs serve`. If you follow [the troubleshooting guide](https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/#troubleshooting) note that you may also need to [install MYSYS2](https://www.msys2.org/).

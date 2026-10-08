@@ -8,40 +8,56 @@ The PyTexas Conference is a gathering of Pythonistas put on by the PyTexas Found
 We're excited to announce that we will be returning on April 16&ndash;18, 2027 to the Austin Central Public Library in Austin, TX. 
 This event is 100% community organized and is funded through the generosity of our sponsors.
 
-## Prospectus Coming Soon!
-
 *Get notified about the latest opportunities to sponsor PyTexas.*
 
 [Join the PyTexas Sponsors Mailing List](https://mailchi.mp/fc46f2d077fe/pytexas-sponsors){ .md-button .pytx-button--primary }
 
-<!-- 
-///If your enterprising self found this, it is not ready. This is last years. Shoo./// 
 ## 2027 Prospectus
 
-| | Platinum | Gold | Silver | Bronze | Lanyard | Live Captioning | Food/Coffee | Networking Event |
-| -- | :--: |  :--: |  :--: |  :--: |  :--: |  :--: |  :--: | :--: |
-| Number remaining | 3 | 5 | 5 | 15 | 1 | 2 | 3 | 3 |
-| Cost (USD) | 12000 | 5000 | 3000 | 1000 | 3000 | 2000 | 3000 | 4000 |
-| Tickets included | 4 | 2 | 1 | 1 | 2 | 1 | 2 | 2 |
-| Discounted Tickets (50% Corp Rate) | 10 | 5 | 2 | - | 2 | 2 | 2 | 2 |
-| Pitch | 2 min | 2 min | 1 min | 1 min | 2 min | 1 min | 2 min | 2 min |
-| Table | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | | :fontawesome-solid-check: [^1] |
-| Sponsored talk<br/>Slot before lunch, 20 minutes | :fontawesome-solid-check: [^2] ||||||||
-| Logo on lanyard | |||| :fontawesome-solid-check: ||
-| Logo on PyTexas videos and live stream | ||||| :fontawesome-solid-check: ||
-| Custom signage/message at breakfast, lunch,<br/>and snacks one day<br/>OR<br/>Logo at coffee area both days [^3] | |||||| :fontawesome-solid-check: ||
-| Popup banner option | ||| :fontawesome-solid-check: |||
-| Logo on website | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
-| Logo on opening and<br/>closing slides | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
-| Social media callout | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
-| Shared swag table<br/>for stickers and other swag<br/>UNSTAFFED | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
-| Posting on the Job Board section<br/>of the conference website | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+Sponsor PyTexas 2027 with one of the sponsorship packages below.
+
+| | Platinum | Gold | Community | Lanyard | Live Captioning | Food | Coffee Bar |
+| -- | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Number available | 2 | 5 | 30 | 1 | 2 | 6 | 1 |
+| Cost (USD) | 12,000 | 5,000 | 500 | 3,000 | 3,000 | 3,000 | 3,000 |
+| Tickets included | 4 | 2 | 1 | 2 | 2 | 2 | 2 |
+| Discounted tickets (50% corp rate) | 10 | 5 | - | 2 | 2 | 2 | 2 |
+| Main-stage pitch | 2 min | 2 min | - | 1 min | 1 min | 1 min | 1 min |
+| Exhibitor table | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | | |
+| Sponsored talk (20 min) or workshop (60 min)<br/>Saturday or Sunday | :fontawesome-solid-check: [^1] | | | | | | |
+| Rotating logo slide during breaks | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | |
+| Logo on lanyard | | | | :fontawesome-solid-check: | | | |
+| Logo on PyTexas videos and live stream | | | | | :fontawesome-solid-check: | | |
+| Custom signage at breakfast, lunch,<br/>and snacks one day | | | | | | :fontawesome-solid-check: | |
+| Logo at the coffee area both days | | | | | | | :fontawesome-solid-check: |
+| Logo on website | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Logo on opening and<br/>closing slides | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Social media callout | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Shared swag table<br/>for stickers and other swag<br/>UNSTAFFED | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Posting on the Job Board section<br/>of the conference website | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+
+**Customizations are reserved for Platinum sponsors at full price.**
+Every other package is fixed as listed above.
+If you want more than your sponsorship includes, add one of [these add-ons](#add-ons).
+
+### Add-ons
+
+Add-ons require purchase of a sponsorship package.
+They can be stacked on any sponsorship package and can be added with other add-ons in any combination.
+They cannot be purchased on their own and do not include extra tickets, extra stage time, or extra benefits other than those listed explicitly here.
+
+| Add-on | Cost (USD) | Number available |
+| -- | :--: | :--: |
+| Conference shirt logo [^2] | 1,000 | 10 |
+| Opportunity Grant sponsor [^3] | 500 | 20 |
+| Attendee swag bag contents [^4] | 500 | 20 |
 
 ///Footnotes Go Here///
 
-[^1]: At network event
-[^2]: Date selection is first come, first serve. Talk is subject to approval. All talks go through the talk review process to ensure that PyTexas remains a high quality conference. Sponsored talks should be the same kind of talks that you would submit through our normal call for proposals. Sales pitches, advertisements, and talks that are not relevant to the Python community will be rejected. **Note that we reserve the right to reject a talk if we think it could jeopardize our 501(c)3 status.**
-[^3]: We have 2 total food sponsorships and 1 total coffee bar sponsorship.
+[^1]: Date selection is first come, first serve. The talk or workshop is subject to approval. All talks go through the talk review process to ensure that PyTexas remains a high quality conference. Sponsored talks should be the same kind of talks that you would submit through our normal call for proposals. Sales pitches, advertisements, and talks that are not relevant to the Python community will be rejected. **Note that we reserve the right to reject a talk if we think it could jeopardize our 501(c)3 status.**
+[^2]: This year every attendee receives a conference shirt, so your logo goes home with the whole conference.
+[^3]: Opportunity Grant sponsorships fund free tickets, and sometimes travel, for attendees who could not otherwise afford to attend. They carry no stage time. PyTexas organizers decide on opportunity grant recipients.
+[^4]: Up to 2 pieces of swag per sponsor go in every attendee bag. A sticker pack counts as one piece. Expect to fill 300 bags.
 
 ### Lead Gathering
 
@@ -129,4 +145,3 @@ Also, in an attempt to make PyTexas as accessible as possible to everyone, we su
 Thank you for considering to sponsor PyTexas.
 
 If you're interested in sponsoring PyTexas, please reach out to [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org).
--->

@@ -2,6 +2,7 @@
 .lycheecache
 .lycheecache/
 commit-msg.md
+.ai-sessions/
 .idea/*
 site/*
 
