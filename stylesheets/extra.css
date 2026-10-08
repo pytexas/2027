@@ -1,0 +1,231 @@
+/* PyTexas 2027 Color Scheme
+ * Placeholder "Still Cooking" theme inspired by the BBQ pit hero image.
+ * TODO: Replace with official 2027 logo colors and re-add dark mode.
+ */
+
+[data-md-color-scheme="pytx2027"] {
+    --pytx-brown: #5C3A21;
+    --pytx-dark-brown: #3B2313;
+    --pytx-amber: #D4A017;
+    --pytx-red: #C0392B;
+    --pytx-green: #4A7C59;
+    --pytx-sky: #6BA3D6;
+    --background-color: #ffffff;
+    --primary-background-color: var(--pytx-dark-brown);
+
+    --md-primary-fg-color: var(--primary-background-color);
+    --md-default-fg-color: var(--pytx-dark-brown);
+    --md-primary-fg-color--light: var(--pytx-brown);
+    --md-default-fg-color--light: var(--pytx-brown);
+    --md-primary-fg-color--dark: var(--pytx-amber);
+    --md-default-fg-color--dark: var(--pytx-amber);
+    --md-typeset-a-color: var(--pytx-green);
+    --md-primary-fg-color--transparent: var(--pytx-amber);
+    --md-primary-bg-color: var(--background-color);
+    --md-primary-bg-color--transparent: var(--pytx-amber);
+    --md-default-bg-color: var(--background-color);
+    --md-accent-fg-color: var(--pytx-amber);
+    --md-accent-fg-color--transparent: var(--pytx-amber);
+    --md-accent-a-color: var(--pytx-red);
+    --md-accent-bg-color: var(--pytx-amber);
+    --md-table-head-color: var(--pytx-amber);
+    --md-table-head-font: var(--pytx-dark-brown);
+}
+
+figcaption {
+    color: var(--md-primary-fg-color);
+    padding: 1rem;
+}
+
+figcaption>a {
+    color: var(--md-accent-fg-color);
+}
+
+figcaption>a:hover,
+a:focus {
+    color: var(--md-accent-a-color);
+}
+
+.md-container {
+    background: var(--md-primary-bg-color);
+    color: var(--md-default-fg-color);
+}
+
+.md-typeset h1 {
+    color: var(--md-default-fg-color);
+    font-size: 2em;
+    line-height: 1.3;
+    margin: 0 0 1.25em;
+}
+
+.md-nav--lifted>.md-nav__list>.md-nav__item--active>.md-nav__link {
+    background: var(--background-color);
+    box-shadow: 0 0 .4rem .4rem var(--background-color);
+    font-weight: 700;
+    margin-top: 0;
+    padding: 0 .6rem;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.md-nav--secondary .md-nav__title {
+    background: unset;
+    box-shadow: unset;
+}
+
+.md-nav__item .md-nav__link--active,
+.md-nav__item .md-nav__link--active code {
+    color: var(--md-primary-fg-color--light);
+}
+
+.md-nav__list {
+    background-color: var(--background-color) !important;
+}
+
+.md-typeset table:not([class]) {
+    background-color: var(--background-color);
+    width: 100%;
+}
+
+thead {
+    background-color: var(--pytx-brown);
+    color: var(--background-color);
+    font-size: 1.15em;
+}
+
+.md-typeset details.question {
+    border-color: var(--pytx-brown);
+}
+
+.md-typeset .question>summary::before,
+.md-typeset .question>summary::after {
+    background-color: var(--pytx-brown);
+}
+
+.md-typeset .question>summary {
+    background-color: rgba(212, 160, 23, 0.15);
+}
+
+.pytx-container {
+    background: var(--background-color);
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    height: 100%;
+    padding-top: .5rem;
+}
+
+.pytx-hero {
+    margin: 0;
+    color: var(--md-default-fg-color);
+    justify-content: center;
+}
+
+.pytx-hero__content {
+    padding-bottom: 2rem;
+    margin: 0 auto;
+}
+
+.pytx-hero__image {
+    align-self: center;
+    order: 0;
+    max-height: 25rem;
+    padding-bottom: 1rem;
+}
+
+.pytx-button {
+    border-radius: 6px;
+    box-sizing: border-box;
+    color: var(--md-primary-bg-color);
+    display: inline;
+    font-size: 1.1rem;
+    margin: 0 0.5rem;
+    overflow: hidden;
+    padding: 0.5rem;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    z-index: 2;
+}
+
+.pytx-button--primary {
+    background-color: var(--pytx-amber);
+    color: var(--pytx-dark-brown) !important;
+}
+
+.pytx-button:focus,
+.pytx-button:hover {
+    background-color: var(--pytx-brown);
+    color: var(--background-color);
+}
+
+.pytx-prospectus-graph {
+    width: 49%;
+}
+
+.pytx-prospectus-graph-lg {
+    width: 80%;
+}
+
+/* Grid cards borders */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li,
+.md-typeset .grid.cards > * {
+    border: 1px solid var(--pytx-brown) !important;
+}
+
+.md-typeset .grid.cards hr {
+    border-top: 1px solid var(--pytx-brown) !important;
+}
+
+.glow {
+    animation: glow 1s ease alternate infinite;
+}
+
+@keyframes glow {
+    from {
+        filter: drop-shadow(0px 4px 4px #FFFFFF);
+    }
+
+    to {
+        filter: drop-shadow(0px 6px 10px #D4A017);
+    }
+}
+
+.md-search-result__meta {
+    background-color: var(--background-color) !important;
+    color: var(--pytx-brown) !important;
+}
+
+.md-search-result {
+    background-color: var(--background-color) !important;
+}
+
+.sponsor {
+    background-color: white;
+}
+
+.sponsor-black {
+    background-color: black;
+}
+
+/* Announcement banner */
+.md-banner__inner {
+    text-align: center;
+    position: relative;
+}
+
+.md-banner__inner p {
+    padding-right: 3rem;
+}
+
+.md-banner a {
+    color: var(--pytx-sky) !important;
+}
+
+/* Footer */
+.md-footer {
+    background-color: var(--pytx-dark-brown);
+    color: var(--background-color);
+}
