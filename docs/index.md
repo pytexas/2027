@@ -9,6 +9,8 @@ description: The PyTexas 2027 Conference will be April 16 - 18, 2027 in Austin, 
 
 Join us for the largest gathering of Python developers within the great state of Texas. We'll discuss software development, data science, community, and of course: Python.
 
+**Friday, April 16** is tutorial day and the Python Community Leadership Summit. **Saturday and Sunday, April 17 - 18** are the main conference days.
+
 <div class="grid cards" markdown>
 
 -   :fontawesome-regular-handshake:{ .lg .middle} __Sponsor__
@@ -31,9 +33,9 @@ Join us for the largest gathering of Python developers within the great state of
 
     ---
 
-    Our Call for Proposals (CFP) opens **October 1, 2026**! Start thinking about your proposal now.
+    Our Call for Proposals (CFP) is open for talks, 3-hour tutorials, and the Python Community Leadership Summit! **Submissions close December 11, 2026 at 5:00pm CST.**
 
-    [:octicons-arrow-right-24: Subscribe to our mailing list to get notified](https://mailchi.mp/035388afb48a/pytexas-community)
+    [:octicons-arrow-right-24: Submit to the CFP](https://pretalx.com/pytexas-2027/)
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 
