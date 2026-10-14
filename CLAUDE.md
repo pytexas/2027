@@ -80,6 +80,7 @@ When changing colors: update the `:root` block in `extra.css`, the two scheme bl
 
 - Conference content pages live in `docs/`. Venue, food, parking, hotel info carries over year-to-year.
 - Sponsor logos go in `docs/assets/images/sponsors/`, speaker photos in `docs/assets/images/speakers/`.
+- The 2027 logo delivery (uncropped logo, four wordmark colorways, swatch sheet) is kept verbatim in `docs/assets/images/logos/source/` for anyone who needs it for collateral. The site itself only uses the cropped `docs/assets/images/logos/pytexas2027_logo.svg`.
 - The schedule is data-driven: edit `data/schedule.yaml`, not `docs/schedule/index.md` (it gets overwritten on build).
 - Prospectus demographic data in `docs/sponsors/sponsor-us.md` uses Mermaid pie charts — update with post-conference survey data.
 - `.ai-sessions/` is gitignored. Session summaries and `lessons.md` stay local and are never staged. The global pre-commit hook still expects a staged session file, so commits here need `--no-verify`.

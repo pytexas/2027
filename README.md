@@ -124,4 +124,4 @@ Audited 2026-10-14 against `pytexas27.zip`; none of this is visible at normal si
 - The wordmarks and sheet also hold a handful of zero-area grey paths (`#87917B`, `#808B73`, `#8B9580`, `#939D88`, `#969F8C`). Illustrator export residue; they draw nothing.
 
 The site uses the sheet values, not the per-file ones.
-The wordmark files are not used on the site.
+The wordmark files are not used on the site, but the whole delivery is checked in under `docs/assets/images/logos/source/` for slides, badges, and anything else that needs it.
