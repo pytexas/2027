@@ -290,6 +290,23 @@ figcaption {
     }
 }
 
+/* Artist credit under the hero */
+.pytx-hero figcaption {
+    color: var(--md-default-fg-color--light);
+    font-size: 0.7rem;
+    text-align: center;
+    padding: 0 1rem 1rem 1rem;
+}
+
+.pytx-hero figcaption a {
+    color: var(--md-typeset-a-color);
+}
+
+.pytx-hero figcaption a:hover,
+.pytx-hero figcaption a:focus {
+    color: var(--md-accent-fg-color);
+}
+
 /* ====================================
    Buttons
    ==================================== */

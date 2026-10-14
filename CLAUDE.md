@@ -42,7 +42,7 @@ docs/stylesheets/extra.css ──────────┘
 - **`docs/`** — Markdown source files. MkDocs renders these into the static site.
 - **`hooks/schedule.py`** — MkDocs `on_pre_build` hook that reads `data/schedule.yaml` and auto-generates `docs/schedule/index.md`. Skips gracefully if no YAML exists yet.
 - **`overrides/`** — MkDocs Material template overrides:
-  - `home.html` — Hero section: the 2027 logo (`docs/assets/images/logos/pytexas2027_logo.svg`) above the CFP button. One SVG serves both color modes; its seams are transparent cutouts, so the hero background shows through them.
+  - `home.html` — Hero section: the 2027 logo (`docs/assets/images/logos/pytexas2027_logo.svg`) above the CFP button, with a `<figcaption>` crediting the artist (Olivia Laurel, linked to her portfolio). One SVG serves both color modes; its seams are transparent cutouts, so the hero background shows through them.
   - `main.html` — Site-wide announcement banner.
 - **`docs/stylesheets/extra.css`** — Custom color schemes (`pytx2027_light` for day, `pytx2027` for night). The six logo colors are declared once on `:root`; each scheme then maps them onto Material's `--md-*` variables. `social.cards_layout_options` in `mkdocs.yml` uses the same palette and the logo SVG.
 
