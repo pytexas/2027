@@ -40,15 +40,14 @@ docs/stylesheets/extra.css ──────────┘
 - **`docs/`** — Markdown source files. MkDocs renders these into the static site.
 - **`hooks/schedule.py`** — MkDocs `on_pre_build` hook that reads `data/schedule.yaml` and auto-generates `docs/schedule/index.md`. Skips gracefully if no YAML exists yet.
 - **`overrides/`** — MkDocs Material template overrides:
-  - `home.html` — Hero section with placeholder image. When the 2027 logo is ready, uncomment the day/night SVG `<div>` blocks and remove the placeholder `<img>` tag. The logo SVGs go in `docs/assets/images/logos/pytexas2027_day_color.svg` and `pytexas2027_night_color.svg`.
+  - `home.html` — Hero section: the 2027 logo (`docs/assets/images/logos/pytexas2027_logo.svg`) above the CFP button. One SVG serves both color modes; its seams are transparent cutouts, so the hero background shows through them.
   - `main.html` — Site-wide announcement banner.
-- **`docs/stylesheets/extra.css`** — Custom color scheme (`pytx2027` / `pytx2027_light`). Colors are placeholders from 2026; update CSS custom properties when the 2027 logo palette is finalized. Also update `social.cards_layout_options` in `mkdocs.yml` to match.
+- **`docs/stylesheets/extra.css`** — Custom color schemes (`pytx2027_light` for day, `pytx2027` for night). The six logo colors are declared once on `:root`; each scheme then maps them onto Material's `--md-*` variables. `social.cards_layout_options` in `mkdocs.yml` uses the same palette and the logo SVG.
 
 ### Navigation Phasing
 
-Several nav sections in `mkdocs.yml` are commented out for later activation. The placeholder pages already exist — just uncomment when ready:
+Several nav sections in `mkdocs.yml` are commented out for later activation. The placeholder pages already exist — just uncomment when ready. `Speaking` is already live (CFP opened October 2026).
 
-- `Speaking` — uncomment when CFP opens (update dates/links in `docs/speaking.md`)
 - `Schedule` section — uncomment when schedule is published (populate `data/schedule.yaml`)
 - `Virtual Attendance` — uncomment when virtual event details are confirmed
 - `Our Sponsors` listing — uncomment when sponsors are signed (add logos to `docs/assets/images/sponsors/`)
@@ -61,18 +60,20 @@ Several nav sections in `mkdocs.yml` are commented out for later activation. The
 
 ### Color Scheme
 
-Placeholder colors (from 2026 — update when 2027 logo is designed):
+Colors from the 2027 logo (sun, prickly pear, agave):
 
-| Color  | Hex     | CSS Variable    |
-|--------|---------|-----------------|
-| Green  | #204F3C | `--pytx-green`  |
-| Yellow | #C2B64A | `--pytx-yellow` |
-| Orange | #C73810 | `--pytx-orange` |
-| Brown  | #443229 | `--pytx-brown`  |
-| Blue   | #4B8EC2 | `--pytx-blue`   |
-| Cream  | #FAFAF8 | `--pytx-light-cream` |
+| Color      | Hex     | CSS Variable    | Used for |
+|------------|---------|-----------------|----------|
+| Peach      | #FCBB77 | `--pytx-peach`  | night headings, night hover, hero gradient |
+| Orange     | #F79227 | `--pytx-orange` | buttons, night links |
+| Pink       | #D92849 | `--pytx-pink`   | day accent (fills only, too light for night text) |
+| Dark red   | #A61E38 | `--pytx-red`    | day links, button hover, announcement banner |
+| Sage       | #879B6B | `--pytx-sage`   | borders, night table heads |
+| Dark green | #687659 | `--pytx-green`  | header bar, footer, day headings, day table heads |
 
-When updating colors: change both `pytx2027_light` and `pytx2027` (dark) scheme blocks in `extra.css`, gradient backgrounds in the `.pytx-container` rules, and `cards_layout_options` in `mkdocs.yml`.
+Supporting colors not in the logo: cream `#FAFAF8` (day background), ink `#2B2520` (day body text), night `#14100E` (night background, a warm near-black so the logo's cutouts read as ink lines).
+
+When changing colors: update the `:root` block in `extra.css`, the two scheme blocks, the `.pytx-container` gradients, `cards_layout_options` in `mkdocs.yml`, the Mermaid `pie` theme variables in `docs/sponsors/sponsor-us.md`, and the Hex Colors section of `README.md`.
 
 ## Key Conventions
 

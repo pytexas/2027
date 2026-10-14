@@ -1,62 +1,169 @@
 /* PyTexas 2027 Color Scheme
- * Placeholder "Still Cooking" theme inspired by the BBQ pit hero image.
- * TODO: Replace with official 2027 logo colors and re-add dark mode.
+ *
+ * Palette taken from the 2027 logo (sun, prickly pear, agave).
+ * One logo SVG serves both modes. Its seams are transparent cutouts, so the
+ * page background shows through them: cream in day mode, near-black at night.
+ * Keep the hero background flat or very softly graded for that reason.
  */
 
+:root {
+    --pytx-peach: #FCBB77;
+    --pytx-orange: #F79227;
+    --pytx-pink: #D92849;
+    --pytx-red: #A61E38;
+    --pytx-sage: #879B6B;
+    --pytx-green: #687659;
+    --pytx-green-dark: #4F5A44;
+    --pytx-cream: #FAFAF8;
+    --pytx-ink: #2B2520;
+    --pytx-night: #14100E;
+}
+
+/* ====================================
+   Day mode
+   ==================================== */
+
+[data-md-color-scheme="pytx2027_light"] {
+    --background-color: var(--pytx-cream);
+    --pytx-surface: #FFFFFF;
+    --pytx-heading: var(--pytx-green);
+
+    --md-default-fg-color: var(--pytx-ink);
+    --md-default-fg-color--light: rgba(43, 37, 32, 0.72);
+    --md-default-fg-color--lighter: rgba(43, 37, 32, 0.4);
+    --md-default-fg-color--lightest: rgba(43, 37, 32, 0.1);
+    --md-default-bg-color: var(--pytx-cream);
+    --md-default-bg-color--light: rgba(250, 250, 248, 0.7);
+    --md-default-bg-color--lighter: rgba(250, 250, 248, 0.3);
+    --md-default-bg-color--lightest: rgba(250, 250, 248, 0.12);
+
+    --md-primary-fg-color: var(--pytx-green);
+    --md-primary-fg-color--light: var(--pytx-sage);
+    --md-primary-fg-color--dark: var(--pytx-green-dark);
+    --md-primary-bg-color: var(--pytx-cream);
+    --md-primary-bg-color--light: rgba(250, 250, 248, 0.7);
+
+    --md-accent-fg-color: var(--pytx-pink);
+    --md-accent-fg-color--transparent: rgba(217, 40, 73, 0.1);
+    --md-accent-bg-color: var(--pytx-cream);
+    --md-accent-bg-color--light: rgba(250, 250, 248, 0.7);
+
+    --md-typeset-color: var(--md-default-fg-color);
+    --md-typeset-a-color: var(--pytx-red);
+    --md-typeset-mark-color: rgba(252, 187, 119, 0.5);
+
+    --md-code-fg-color: #3A322C;
+    --md-code-bg-color: #F1EEE6;
+    --md-code-bg-color--light: rgba(241, 238, 230, 0.9);
+    --md-code-bg-color--lighter: rgba(241, 238, 230, 0.54);
+    --md-code-hl-color: var(--pytx-orange);
+    --md-code-hl-color--light: rgba(247, 146, 39, 0.15);
+
+    --md-admonition-fg-color: var(--md-default-fg-color);
+    --md-admonition-bg-color: var(--pytx-surface);
+
+    --md-footer-bg-color: var(--pytx-green);
+    --md-footer-bg-color--dark: var(--pytx-green-dark);
+    --md-footer-fg-color: var(--pytx-cream);
+    --md-footer-fg-color--light: rgba(250, 250, 248, 0.75);
+    --md-footer-fg-color--lighter: rgba(250, 250, 248, 0.5);
+}
+
+/* ====================================
+   Night mode
+   ==================================== */
+
 [data-md-color-scheme="pytx2027"] {
-    --pytx-brown: #5C3A21;
-    --pytx-dark-brown: #3B2313;
-    --pytx-amber: #D4A017;
-    --pytx-red: #C0392B;
-    --pytx-green: #4A7C59;
-    --pytx-sky: #6BA3D6;
-    --background-color: #ffffff;
-    --primary-background-color: var(--pytx-dark-brown);
+    color-scheme: dark;
+    --background-color: var(--pytx-night);
+    --pytx-surface: #1F1915;
+    --pytx-heading: var(--pytx-peach);
 
-    --md-primary-fg-color: var(--primary-background-color);
-    --md-default-fg-color: var(--pytx-dark-brown);
-    --md-primary-fg-color--light: var(--pytx-brown);
-    --md-default-fg-color--light: var(--pytx-brown);
-    --md-primary-fg-color--dark: var(--pytx-amber);
-    --md-default-fg-color--dark: var(--pytx-amber);
-    --md-typeset-a-color: var(--pytx-green);
-    --md-primary-fg-color--transparent: var(--pytx-amber);
-    --md-primary-bg-color: var(--background-color);
-    --md-primary-bg-color--transparent: var(--pytx-amber);
-    --md-default-bg-color: var(--background-color);
-    --md-accent-fg-color: var(--pytx-amber);
-    --md-accent-fg-color--transparent: var(--pytx-amber);
-    --md-accent-a-color: var(--pytx-red);
-    --md-accent-bg-color: var(--pytx-amber);
-    --md-table-head-color: var(--pytx-amber);
-    --md-table-head-font: var(--pytx-dark-brown);
+    --md-default-fg-color: var(--pytx-cream);
+    --md-default-fg-color--light: rgba(250, 250, 248, 0.7);
+    --md-default-fg-color--lighter: rgba(250, 250, 248, 0.4);
+    --md-default-fg-color--lightest: rgba(250, 250, 248, 0.12);
+    --md-default-bg-color: var(--pytx-night);
+    --md-default-bg-color--light: rgba(20, 16, 14, 0.54);
+    --md-default-bg-color--lighter: rgba(20, 16, 14, 0.26);
+    --md-default-bg-color--lightest: rgba(20, 16, 14, 0.07);
+
+    --md-primary-fg-color: var(--pytx-green);
+    --md-primary-fg-color--light: var(--pytx-sage);
+    --md-primary-fg-color--dark: var(--pytx-green-dark);
+    --md-primary-bg-color: var(--pytx-cream);
+    --md-primary-bg-color--light: rgba(250, 250, 248, 0.7);
+
+    --md-accent-fg-color: var(--pytx-peach);
+    --md-accent-fg-color--transparent: rgba(252, 187, 119, 0.1);
+    --md-accent-bg-color: var(--pytx-ink);
+    --md-accent-bg-color--light: rgba(43, 37, 32, 0.7);
+
+    --md-typeset-color: var(--md-default-fg-color);
+    --md-typeset-a-color: var(--pytx-orange);
+    --md-typeset-mark-color: rgba(252, 187, 119, 0.3);
+    --md-typeset-kbd-color: rgba(250, 250, 248, 0.12);
+    --md-typeset-kbd-accent-color: rgba(250, 250, 248, 0.2);
+    --md-typeset-kbd-border-color: var(--pytx-night);
+    --md-typeset-table-color: rgba(250, 250, 248, 0.12);
+    --md-typeset-table-color--light: rgba(250, 250, 248, 0.035);
+
+    --md-code-fg-color: #E8E4DC;
+    --md-code-bg-color: var(--pytx-surface);
+    --md-code-bg-color--light: rgba(31, 25, 21, 0.9);
+    --md-code-bg-color--lighter: rgba(31, 25, 21, 0.54);
+    --md-code-hl-color: var(--pytx-orange);
+    --md-code-hl-color--light: rgba(247, 146, 39, 0.1);
+    --md-code-hl-number-color: #E86A7E;
+    --md-code-hl-special-color: #F06090;
+    --md-code-hl-function-color: #D9A0E8;
+    --md-code-hl-constant-color: #B4A8F0;
+    --md-code-hl-keyword-color: #8FB4E8;
+    --md-code-hl-string-color: #9CC07E;
+    --md-code-hl-name-color: var(--md-code-fg-color);
+    --md-code-hl-operator-color: var(--md-default-fg-color--light);
+    --md-code-hl-punctuation-color: var(--md-default-fg-color--light);
+    --md-code-hl-comment-color: var(--md-default-fg-color--light);
+    --md-code-hl-generic-color: var(--md-default-fg-color--light);
+    --md-code-hl-variable-color: var(--md-default-fg-color--light);
+
+    --md-admonition-fg-color: var(--md-default-fg-color);
+    --md-admonition-bg-color: var(--pytx-surface);
+
+    --md-footer-bg-color: var(--pytx-green);
+    --md-footer-bg-color--dark: var(--pytx-green-dark);
+    --md-footer-fg-color: var(--pytx-cream);
+    --md-footer-fg-color--light: rgba(250, 250, 248, 0.75);
+    --md-footer-fg-color--lighter: rgba(250, 250, 248, 0.5);
+
+    --md-shadow-z1: 0 0.2rem 0.5rem #0000000d, 0 0 0.05rem #0000001a;
+    --md-shadow-z2: 0 0.2rem 0.5rem #00000040, 0 0 0.05rem #00000040;
+    --md-shadow-z3: 0 0.2rem 0.5rem #0006, 0 0 0.05rem #00000059;
 }
 
-figcaption {
-    color: var(--md-primary-fg-color);
-    padding: 1rem;
-}
+/* ====================================
+   Typography
+   ==================================== */
 
-figcaption>a {
-    color: var(--md-accent-fg-color);
-}
-
-figcaption>a:hover,
-a:focus {
-    color: var(--md-accent-a-color);
-}
-
-.md-container {
-    background: var(--md-primary-bg-color);
-    color: var(--md-default-fg-color);
+.md-typeset h1,
+.md-typeset h2 {
+    color: var(--pytx-heading);
 }
 
 .md-typeset h1 {
-    color: var(--md-default-fg-color);
     font-size: 2em;
     line-height: 1.3;
     margin: 0 0 1.25em;
 }
+
+figcaption {
+    color: var(--md-default-fg-color--light);
+    padding: 1rem;
+}
+
+/* ====================================
+   Navigation
+   ==================================== */
 
 .md-nav--lifted>.md-nav__list>.md-nav__item--active>.md-nav__link {
     background: var(--background-color);
@@ -74,70 +181,122 @@ a:focus {
     box-shadow: unset;
 }
 
-.md-nav__item .md-nav__link--active,
-.md-nav__item .md-nav__link--active code {
-    color: var(--md-primary-fg-color--light);
-}
-
 .md-nav__list {
     background-color: var(--background-color) !important;
 }
 
+/* ====================================
+   Tables
+   ==================================== */
+
 .md-typeset table:not([class]) {
-    background-color: var(--background-color);
+    background-color: var(--pytx-surface);
+    border-color: var(--pytx-sage);
     width: 100%;
 }
 
-thead {
-    background-color: var(--pytx-brown);
-    color: var(--background-color);
+.md-typeset table:not([class]) th {
     font-size: 1.15em;
 }
 
+[data-md-color-scheme="pytx2027_light"] .md-typeset table:not([class]) th {
+    background-color: var(--pytx-green);
+    color: var(--pytx-cream);
+}
+
+[data-md-color-scheme="pytx2027"] .md-typeset table:not([class]) th {
+    background-color: var(--pytx-sage);
+    color: var(--pytx-ink);
+}
+
+/* ====================================
+   FAQ details blocks
+   ==================================== */
+
 .md-typeset details.question {
-    border-color: var(--pytx-brown);
+    border-color: var(--pytx-sage);
+}
+
+[data-md-color-scheme="pytx2027"] .md-typeset details.question {
+    background-color: var(--pytx-surface);
+}
+
+.md-typeset .question>summary {
+    background-color: rgba(135, 155, 107, 0.15);
 }
 
 .md-typeset .question>summary::before,
 .md-typeset .question>summary::after {
-    background-color: var(--pytx-brown);
+    background-color: var(--pytx-sage);
 }
 
-.md-typeset .question>summary {
-    background-color: rgba(212, 160, 23, 0.15);
-}
+/* ====================================
+   Home page hero
+   ==================================== */
 
 .pytx-container {
-    background: var(--background-color);
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-    height: 100%;
-    padding-top: .5rem;
+    display: block;
+    padding: 2rem 0 1rem;
+}
+
+[data-md-color-scheme="pytx2027_light"] .pytx-container {
+    background: linear-gradient(to bottom, rgba(252, 187, 119, 0.35), var(--pytx-cream));
+}
+
+[data-md-color-scheme="pytx2027"] .pytx-container {
+    background: linear-gradient(to bottom, rgba(104, 118, 89, 0.35), var(--pytx-night));
 }
 
 .pytx-hero {
     margin: 0;
     color: var(--md-default-fg-color);
-    justify-content: center;
+    display: block;
 }
 
 .pytx-hero__content {
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
     margin: 0 auto;
+    text-align: center;
 }
 
 .pytx-hero__image {
-    align-self: center;
-    order: 0;
-    max-height: 25rem;
-    padding-bottom: 1rem;
+    padding: 1rem 0 1.5rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
 }
+
+.pytx-hero__image img {
+    max-width: 100%;
+    max-height: 16rem;
+    height: auto;
+    width: auto;
+    object-fit: contain;
+    display: block;
+}
+
+/* Tablet screens */
+@media screen and (min-width: 768px) {
+    .pytx-hero__image img {
+        max-height: 20rem;
+    }
+}
+
+/* Desktop screens */
+@media screen and (min-width: 1024px) {
+    .pytx-hero__image img {
+        max-height: 24rem;
+    }
+}
+
+/* ====================================
+   Buttons
+   ==================================== */
 
 .pytx-button {
     border-radius: 6px;
     box-sizing: border-box;
-    color: var(--md-primary-bg-color);
     display: inline;
     font-size: 1.1rem;
     margin: 0 0.5rem;
@@ -150,33 +309,32 @@ thead {
 }
 
 .pytx-button--primary {
-    background-color: var(--pytx-amber);
-    color: var(--pytx-dark-brown) !important;
+    background-color: var(--pytx-orange);
+    color: var(--pytx-ink) !important;
 }
 
 .pytx-button:focus,
-.pytx-button:hover {
-    background-color: var(--pytx-brown);
-    color: var(--background-color);
+.pytx-button:hover,
+.pytx-button--primary:focus,
+.pytx-button--primary:hover,
+.md-button.pytx-button--primary:focus,
+.md-button.pytx-button--primary:hover {
+    background-color: var(--pytx-red) !important;
+    color: var(--pytx-cream) !important;
 }
 
-.pytx-prospectus-graph {
-    width: 49%;
-}
+/* ====================================
+   Grid cards
+   ==================================== */
 
-.pytx-prospectus-graph-lg {
-    width: 80%;
-}
-
-/* Grid cards borders */
 .md-typeset .grid.cards > ul > li,
 .md-typeset .grid.cards > ol > li,
 .md-typeset .grid.cards > * {
-    border: 1px solid var(--pytx-brown) !important;
+    border: 1px solid var(--pytx-sage) !important;
 }
 
 .md-typeset .grid.cards hr {
-    border-top: 1px solid var(--pytx-brown) !important;
+    border-top: 1px solid var(--pytx-sage) !important;
 }
 
 .glow {
@@ -189,17 +347,20 @@ thead {
     }
 
     to {
-        filter: drop-shadow(0px 6px 10px #D4A017);
+        filter: drop-shadow(0px 6px 10px #FCBB77);
     }
 }
 
-.md-search-result__meta {
-    background-color: var(--background-color) !important;
-    color: var(--pytx-brown) !important;
+/* ====================================
+   Prospectus and sponsors
+   ==================================== */
+
+.pytx-prospectus-graph {
+    width: 49%;
 }
 
-.md-search-result {
-    background-color: var(--background-color) !important;
+.pytx-prospectus-graph-lg {
+    width: 80%;
 }
 
 .sponsor {
@@ -210,7 +371,15 @@ thead {
     background-color: black;
 }
 
-/* Announcement banner */
+/* ====================================
+   Announcement banner
+   ==================================== */
+
+.md-banner {
+    background-color: var(--pytx-red);
+    color: var(--pytx-cream);
+}
+
 .md-banner__inner {
     text-align: center;
     position: relative;
@@ -221,11 +390,12 @@ thead {
 }
 
 .md-banner a {
-    color: var(--pytx-sky) !important;
+    color: var(--pytx-cream) !important;
+    font-weight: 700;
+    text-decoration: underline;
 }
 
-/* Footer */
-.md-footer {
-    background-color: var(--pytx-dark-brown);
-    color: var(--background-color);
+.md-banner a:hover,
+.md-banner a:focus {
+    color: var(--pytx-peach) !important;
 }

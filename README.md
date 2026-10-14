@@ -96,13 +96,13 @@ See [CLAUDE.md](CLAUDE.md) for detailed project structure and development guidel
 
 ## Hex Colors
 
-Hex code for the colors for this year's logo
+Hex codes for the colors in this year's logo (sun, prickly pear, agave).
 
-TODO: Update when 2027 logo is designed. Currently using 2026 placeholder colors.
+peach #FCBB77
+orange #F79227
+pink #D92849
+dark red #A61E38
+sage #879B6B
+dark green #687659
 
-green #204F3C
-yellow #C2B64A
-orange #C73810
-brown #443229
-blue #4B8EC2
-
+Supporting colors the site uses that are not in the logo: cream #FAFAF8 (day background), ink #2B2520 (day text), night #14100E (night background).
