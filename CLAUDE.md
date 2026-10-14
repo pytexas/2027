@@ -26,6 +26,8 @@ just deploy           # Deploy to GitHub Pages (production only)
 
 **System prerequisite:** Cairo library (`brew install cairo` on macOS).
 
+**Python floor:** `requires-python` in `pyproject.toml` is `>=3.12` on purpose. Local and CI run the version in `.python-version`. Lowering the floor makes uv keep old per-version forks of Pillow, urllib3, and Markdown in `uv.lock`, and Dependabot flags every one of them.
+
 ## Architecture
 
 ### Content Pipeline
