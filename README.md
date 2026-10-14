@@ -96,13 +96,32 @@ See [CLAUDE.md](CLAUDE.md) for detailed project structure and development guidel
 
 ## Hex Colors
 
-Hex codes for the colors in this year's logo (sun, prickly pear, agave).
+The 2027 logo (sun, prickly pear, agave) shipped with a six-swatch sheet (`colorhex.svg`).
+These are the brand colors, plus the colors the site adds on top of them.
 
-peach #FCBB77
-orange #F79227
-pink #D92849
-dark red #A61E38
-sage #879B6B
-dark green #687659
+| Role | Hex | CSS variable | Where it shows up |
+|---|---|---|---|
+| Peach | #FCBB77 | `--pytx-peach` | sun highlight; night headings, night hover, day hero gradient |
+| Orange | #F79227 | `--pytx-orange` | sun rays, hill; buttons, night links |
+| Pink | #D92849 | `--pytx-pink` | cactus fruit, agave; day accent (fills only, 3.9:1 on the night background) |
+| Dark red | #A61E38 | `--pytx-red` | fruit shading; day links, button hover, announcement banner |
+| Sage | #879B6B | `--pytx-sage` | cactus pads; borders, night table heads |
+| Dark green | #687659 | `--pytx-green` | cactus shading; day headings, day table heads |
+| Darker green | #4F5A44 | `--pytx-green-dark` | header bar, nav tabs, footer. Not on the sheet: it is the logo green darkened about 25% so cream text clears 7:1 instead of 4.6:1 |
+| Cream | #FAFAF8 | `--pytx-cream` | day background. Not on the sheet |
+| Ink | #2B2520 | `--pytx-ink` | day body text. Not on the sheet |
+| Night | #14100E | `--pytx-night` | night background, a warm near-black so the logo's cutouts read as ink lines. Not on the sheet |
 
-Supporting colors the site uses that are not in the logo: cream #FAFAF8 (day background), ink #2B2520 (day text), night #14100E (night background).
+### What the delivered files actually contain
+
+The swatch sheet and the artwork do not quite agree.
+Audited 2026-10-14 against `pytexas27.zip`; none of this is visible at normal size, but it matters if you ever sample a color from a file.
+
+- `pytexas_wavesun.svg` (the logo on the site) uses two colors the sheet omits: `#F79329` for the sun disk (two units off the sheet orange, used more than the sheet orange is) and `#AEBE96`, a light sage for the cactus pad highlights.
+- `wordmark_final.svg` and the sheet's own wordmark are green `#69775B`, one unit off the sheet's `#687659`.
+- The "AUSTIN, TX" subtitle in every wordmark is five near-identical oranges (`#F4932C`, `#F4942E`, `#F49630`, `#F49632`, `#F59937`), none of them the sheet orange.
+- `wordmark_darkpink.svg` and `wordmark_lightpink.svg` each carry a stray `#C1272D` red on one small path.
+- The wordmarks and sheet also hold a handful of zero-area grey paths (`#87917B`, `#808B73`, `#8B9580`, `#939D88`, `#969F8C`). Illustrator export residue; they draw nothing.
+
+The site uses the sheet values, not the per-file ones.
+The wordmark files are not used on the site.

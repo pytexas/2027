@@ -13,7 +13,7 @@
     --pytx-red: #A61E38;
     --pytx-sage: #879B6B;
     --pytx-green: #687659;
-    --pytx-green-dark: #4F5A44;
+    --pytx-green-dark: #4F5A44;  /* header and footer; derived from the logo green, not on the delivered sheet */
     --pytx-cream: #FAFAF8;
     --pytx-ink: #2B2520;
     --pytx-night: #14100E;
@@ -37,7 +37,7 @@
     --md-default-bg-color--lighter: rgba(250, 250, 248, 0.3);
     --md-default-bg-color--lightest: rgba(250, 250, 248, 0.12);
 
-    --md-primary-fg-color: var(--pytx-green);
+    --md-primary-fg-color: var(--pytx-green-dark);
     --md-primary-fg-color--light: var(--pytx-sage);
     --md-primary-fg-color--dark: var(--pytx-green-dark);
     --md-primary-bg-color: var(--pytx-cream);
@@ -62,7 +62,7 @@
     --md-admonition-fg-color: var(--md-default-fg-color);
     --md-admonition-bg-color: var(--pytx-surface);
 
-    --md-footer-bg-color: var(--pytx-green);
+    --md-footer-bg-color: var(--pytx-green-dark);
     --md-footer-bg-color--dark: var(--pytx-green-dark);
     --md-footer-fg-color: var(--pytx-cream);
     --md-footer-fg-color--light: rgba(250, 250, 248, 0.75);
@@ -88,7 +88,7 @@
     --md-default-bg-color--lighter: rgba(20, 16, 14, 0.26);
     --md-default-bg-color--lightest: rgba(20, 16, 14, 0.07);
 
-    --md-primary-fg-color: var(--pytx-green);
+    --md-primary-fg-color: var(--pytx-green-dark);
     --md-primary-fg-color--light: var(--pytx-sage);
     --md-primary-fg-color--dark: var(--pytx-green-dark);
     --md-primary-bg-color: var(--pytx-cream);
@@ -130,7 +130,7 @@
     --md-admonition-fg-color: var(--md-default-fg-color);
     --md-admonition-bg-color: var(--pytx-surface);
 
-    --md-footer-bg-color: var(--pytx-green);
+    --md-footer-bg-color: var(--pytx-green-dark);
     --md-footer-bg-color--dark: var(--pytx-green-dark);
     --md-footer-fg-color: var(--pytx-cream);
     --md-footer-fg-color--light: rgba(250, 250, 248, 0.75);

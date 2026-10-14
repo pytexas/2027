@@ -69,9 +69,10 @@ Colors from the 2027 logo (sun, prickly pear, agave):
 | Pink       | #D92849 | `--pytx-pink`   | day accent (fills only, too light for night text) |
 | Dark red   | #A61E38 | `--pytx-red`    | day links, button hover, announcement banner |
 | Sage       | #879B6B | `--pytx-sage`   | borders, night table heads |
-| Dark green | #687659 | `--pytx-green`  | header bar, footer, day headings, day table heads |
+| Dark green | #687659 | `--pytx-green`  | day headings, day table heads |
+| Darker green | #4F5A44 | `--pytx-green-dark` | header bar, nav tabs, footer (derived from the logo green for contrast; not on the delivered sheet) |
 
-Supporting colors not in the logo: cream `#FAFAF8` (day background), ink `#2B2520` (day body text), night `#14100E` (night background, a warm near-black so the logo's cutouts read as ink lines).
+Supporting colors not in the logo: cream `#FAFAF8` (day background), ink `#2B2520` (day body text), night `#14100E` (night background, a warm near-black so the logo's cutouts read as ink lines). The Hex Colors section of `README.md` also records where the delivered SVGs differ from the swatch sheet.
 
 When changing colors: update the `:root` block in `extra.css`, the two scheme blocks, the `.pytx-container` gradients, `cards_layout_options` in `mkdocs.yml`, the Mermaid `pie` theme variables in `docs/sponsors/sponsor-us.md`, and the Hex Colors section of `README.md`.
 
