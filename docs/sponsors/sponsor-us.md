@@ -52,11 +52,9 @@ They cannot be purchased on their own and do not include extra tickets, extra st
 | Opportunity Grant sponsor [^3] | 500 | 20 |
 | Attendee swag bag contents [^4] | 500 | 20 |
 
-///Footnotes Go Here///
-
 [^1]: Date selection is first come, first serve. The talk or workshop is subject to approval. All talks go through the talk review process to ensure that PyTexas remains a high quality conference. Sponsored talks should be the same kind of talks that you would submit through our normal call for proposals. Sales pitches, advertisements, and talks that are not relevant to the Python community will be rejected. **Note that we reserve the right to reject a talk if we think it could jeopardize our 501(c)3 status.**
 [^2]: This year every attendee receives a conference shirt, so your logo goes home with the whole conference.
-[^3]: Opportunity Grant sponsorships fund free tickets, and sometimes travel, for attendees who could not otherwise afford to attend. They carry no stage time. PyTexas organizers decide on opportunity grant recipients.
+[^3]: Opportunity Grant sponsorships fund free tickets, and sometimes travel, for attendees who could not otherwise afford to attend. They carry no stage time. PyTexas organizers decide on [Opportunity Grant](../attend/grants.md) recipients.
 [^4]: Up to 2 pieces of swag per sponsor go in every attendee bag. A sticker pack counts as one piece. Expect to fill 300 bags.
 
 ### Lead Gathering
@@ -138,7 +136,7 @@ pie showData
 
 All sponsorship funds are used for the benefit of the PyTexas Conference and Foundation and the Texas Python community. We utilize funds to pay our venue, vendors, supplies, and all other things conference related. Any surplus funds that we collect are used to fund the minimal operating cost of the Foundation for the remainder of the year (primarily costs around bookkeeping, email, and foundation governance), as well as make next year's PyTexas better.
 
-Also, in an attempt to make PyTexas as accessible as possible to everyone, we subsidize our Individual ticket prices with Corporate tickets and Sponsorship funds. By doing this we are able to keep PyTexas Individual tickets as low as possible, ensuring that everyone can attend. If an attendee can't afford a ticket, they can apply for a grant where we can offer them free tickets and sometimes funds for travel expenses.
+Also, in an attempt to make PyTexas as accessible as possible to everyone, we subsidize our Individual ticket prices with Corporate tickets and Sponsorship funds. By doing this we are able to keep PyTexas Individual tickets as low as possible, ensuring that everyone can attend. If an attendee can't afford a ticket, they can apply for an [Opportunity Grant](../attend/grants.md) where we can offer them free tickets and sometimes funds for travel expenses.
 
 ---
 

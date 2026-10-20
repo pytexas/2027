@@ -53,6 +53,7 @@ Several nav sections in `mkdocs.yml` are commented out for later activation. The
 - `Schedule` section — uncomment when schedule is published (populate `data/schedule.yaml`)
 - `Virtual Attendance` — uncomment when virtual event details are confirmed
 - `Our Sponsors` listing — uncomment when sponsors are signed (add logos to `docs/assets/images/sponsors/`)
+- Grant application button in `docs/attend/grants.md` — the real 2027 form link is already in the commented-out button; uncomment it when applications open on 01/01/2027
 
 ### CI/CD Pipeline (GitHub Actions)
 
