@@ -84,7 +84,7 @@ The PyTexas Conference is a regional Python-focused conference held annually in 
 We had guests from all over the world, though our audience primarily is in Texas.
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#F79227', 'pie2': '#687659', 'pie3': '#D92849', 'pie4': '#FCBB77', 'pie5': '#879B6B', 'pie6': '#A61E38', 'pie7': '#4F5A44', 'pieTitleTextColor': '#687659', 'pieLegendTextColor': '#687659'}}}%%
 pie showData
     title Attendee Location
     "From Texas" : 83
@@ -93,7 +93,7 @@ pie showData
 ```
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#F79227', 'pie2': '#687659', 'pie3': '#D92849', 'pie4': '#FCBB77', 'pie5': '#879B6B', 'pie6': '#A61E38', 'pie7': '#4F5A44', 'pieTitleTextColor': '#687659', 'pieLegendTextColor': '#687659'}}}%%
 pie showData
     title Texas Cities
     "Austin" : 53
@@ -107,7 +107,7 @@ We primarily get software engineers and other engineering fields, though we had 
 
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#F79227', 'pie2': '#687659', 'pie3': '#D92849', 'pie4': '#FCBB77', 'pie5': '#879B6B', 'pie6': '#A61E38', 'pie7': '#4F5A44', 'pieTitleTextColor': '#687659', 'pieLegendTextColor': '#687659'}}}%%
 pie showData
     title Role
     "Software Engineer/SDET" : 53
@@ -123,7 +123,7 @@ pie showData
  Also, we have a fairly even spread of experience.
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#F79227', 'pie2': '#687659', 'pie3': '#D92849', 'pie4': '#FCBB77', 'pie5': '#879B6B', 'pie6': '#A61E38', 'pie7': '#4F5A44', 'pieTitleTextColor': '#687659', 'pieLegendTextColor': '#687659'}}}%%
 pie showData
     title Attendee Experience
     "Less than 1 year" : 9
