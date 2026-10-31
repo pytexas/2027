@@ -60,6 +60,7 @@ Several nav sections in `mkdocs.yml` are commented out for later activation. The
 1. **link-check.yml** — Builds with `--strict`, runs lychee link checker. Triggers on all pushes/PRs.
 2. **ci.yml** — Deploys to GitHub Pages. Only runs on `main` after link-check succeeds.
 3. **check.yml** — Dependency vulnerability review on PRs.
+4. **dependabot.yml** — Weekly grouped `uv.lock` bump PRs (Monday mornings, `deps` prefix) and monthly grouped GitHub Actions bumps (`ci` prefix). Merge these like any other PR; CI runs on them.
 
 ### Color Scheme
 
