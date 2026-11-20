@@ -1,0 +1,29 @@
+version: 2
+updates:
+  # Python packages in uv.lock. One grouped PR a week instead of one per package,
+  # so a Pillow advisory stack lands as a single lock bump.
+  - package-ecosystem: "uv"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "08:00"
+      timezone: "America/Chicago"
+    groups:
+      python:
+        patterns:
+          - "*"
+    commit-message:
+      prefix: "deps"
+
+  # Actions pinned in .github/workflows/*.yml (checkout, setup-uv, lychee, etc.)
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    groups:
+      actions:
+        patterns:
+          - "*"
+    commit-message:
+      prefix: "ci"
